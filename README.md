@@ -6,12 +6,12 @@ de problemas de programação da Codility.
 
 ## Horário
 Atualmente existe um grupo de Hangout, onde nos encontramos todos os Sábados das 10am
-até as 12:00.
+até as 12:00.  
 Envie seu email para jprivillaso@gmail.com para ser incluido no grupo
 
 ## Como funciona?
 Toda semana serão marcados os problemas a serem resolvidos. A lista de problemas pode ser encontrada
-nesse - [link](https://codility.com/programmers/lessons/)
+nesse [link](https://codility.com/programmers/lessons/).  
 No dia, discutimos as soluções. Caso alguém não tenha conseguido o 100%, entre todos tentam achar uma solução melhor.
 
 ## 10/10/2016
