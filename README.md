@@ -16,16 +16,16 @@ No dia, discutimos as soluções. Caso alguém não tenha conseguido o 100%, ent
 
 ## 10/10/2016
 
-**Binary Gap** 
-  Complexidade em tempo O(log(n)) -> 100%
-  Complexidade em espaço O(1) -> 100%
+**Binary Gap**  
+  Complexidade em tempo O(log(n)) -> 100%  
+  Complexidade em espaço O(1) -> 100%  
 
-**Odd Occurrencies in Array**
-  Complexidade em tempo O(N) -> 100%
-  Complexidade em espaço O(1) -> 100%
+**Odd Occurrencies in Array**  
+  Complexidade em tempo O(N) -> 100%  
+  Complexidade em espaço O(1) -> 100%  
 
-## 17/10/2016
+## 17/10/2016  
 
-**Odd Occurrencies in Array**
-  Complexidade em tempo O(N)
-  Complexidade em espaço O(1)
+**Odd Occurrencies in Array**  
+  Complexidade em tempo O(N)  
+  Complexidade em espaço O(1)  
