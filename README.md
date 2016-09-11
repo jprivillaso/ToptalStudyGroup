@@ -18,7 +18,6 @@ No dia, discutimos as soluções. Caso alguém não tenha conseguido o 100%, ent
 
 **Binary Gap**  
   Complexidade em tempo O(log(n)) -> 100%  
-  Complexidade em espaço O(1) -> 100%  
 
 **Odd Occurrencies in Array**  
   Complexidade em tempo O(N) -> 100%  
@@ -26,6 +25,13 @@ No dia, discutimos as soluções. Caso alguém não tenha conseguido o 100%, ent
 
 ## 17/10/2016  
 
-**Odd Occurrencies in Array**  
+**Cyclic Rotation**  
+  Only correctnees needed
+
+**Tape Equilibrium**  
   Complexidade em tempo O(N)  
+  Complexidade em espaço O(N)  
+
+**FrogJmp**  
+  Complexidade em tempo O(1)  
   Complexidade em espaço O(1)  
