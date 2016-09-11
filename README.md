@@ -2,7 +2,7 @@
 Essa é uma guia de estudo para o processo de seleção da Toptal.
 
 Atualmente essa sera uma guia que serve para estudar para a segunda fase de resolução
-de probelmas de programação da Codility.
+de problemas de programação da Codility.
 
 ## Horário
 Atualmente existe um grupo de Hangout, onde nos encontramos todos os Sábados das 10am
