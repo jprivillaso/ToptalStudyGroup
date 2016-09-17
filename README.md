@@ -26,7 +26,7 @@ No dia, discutimos as soluções. Caso alguém não tenha conseguido o 100%, ent
 ## 17/10/2016  
 
 **Cyclic Rotation**  
-  Only correctness needed
+  Complexidade em tempo O(N) -> 100%  
 
 **Tape Equilibrium**  
   Complexidade em tempo O(N)  
