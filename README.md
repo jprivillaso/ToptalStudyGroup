@@ -14,6 +14,9 @@ Toda semana serão marcados os problemas a serem resolvidos. A lista de problema
 nesse [link](https://codility.com/programmers/lessons/).  
 No dia, discutimos as soluções. Caso alguém não tenha conseguido o 100%, entre todos tentam achar uma solução melhor.
 
+## Links
+Entenda um pouco sobre complexidade de Algoritmos [nesse link!](http://bigocheatsheet.com/)
+
 ## 10/10/2016
 
 **Binary Gap**  
