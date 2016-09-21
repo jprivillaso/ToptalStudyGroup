@@ -17,24 +17,12 @@ No dia, discutimos as soluções. Caso alguém não tenha conseguido o 100%, ent
 ## Links
 Entenda um pouco sobre complexidade de Algoritmos [nesse link!](http://bigocheatsheet.com/)
 
-## 10/10/2016
+## Proximo Encontro: 24/10/2016
 
-**Binary Gap**  
-  Complexidade em tempo O(log(n)) -> 100%  
+**Permutation Missing Element**  
+  Complexidade em tempo O(N)
+  Complexidade em espaço O(1)  
 
-**Odd Occurrencies in Array**  
-  Complexidade em tempo O(N) -> 100%  
-  Complexidade em espaço O(1) -> 100%  
-
-## 17/10/2016  
-
-**Cyclic Rotation**  
-  Complexidade em tempo O(N) -> 100%  
-
-**Tape Equilibrium**  
-  Complexidade em tempo O(N) -> 100%    
-  Complexidade em espaço O(N) 
-
-**FrogJmp**  
-  Complexidade em tempo O(1) -> 100%  
-  Complexidade em espaço O(1)
+**Permutation Check**  
+  Complexidade em tempo O(N)  
+  Complexidade em espaço O(N)  
