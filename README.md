@@ -32,9 +32,9 @@ Entenda um pouco sobre complexidade de Algoritmos [nesse link!](http://bigocheat
   Complexidade em tempo O(N) -> 100%  
 
 **Tape Equilibrium**  
-  Complexidade em tempo O(N)  
-  Complexidade em espaço O(N)  
+  Complexidade em tempo O(N) -> 100%    
+  Complexidade em espaço O(N) 
 
 **FrogJmp**  
-  Complexidade em tempo O(1)  
-  Complexidade em espaço O(1)  
+  Complexidade em tempo O(1) -> 100%  
+  Complexidade em espaço O(1)
