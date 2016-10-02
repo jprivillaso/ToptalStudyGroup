@@ -19,10 +19,14 @@ Entenda um pouco sobre complexidade de Algoritmos [nesse link!](http://bigocheat
 
 ## Proximo Encontro: 24/10/2016
 
-**Permutation Missing Element**  
-  Complexidade em tempo O(N)
-  Complexidade em espaço O(1)  
-
-**Permutation Check**  
+**Missing Integer**  
   Complexidade em tempo O(N)  
-  Complexidade em espaço O(N)  
+  Complexidade em espaço O(N) 
+
+**Frog River One**  
+  Complexidade em tempo O(N)  
+  Complexidade em espaço O(X)  
+
+**Max Counters**  
+  Complexidade em tempo O(N+M)  
+  Complexidade em espaço O(N)
