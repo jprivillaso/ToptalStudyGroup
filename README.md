@@ -18,7 +18,7 @@ No dia, discutimos as soluções. Caso alguém não tenha conseguido o 100%, ent
 ## Links
 Entenda um pouco sobre complexidade de Algoritmos [nesse link!](http://bigocheatsheet.com/)
 
-## Challenges da semana! (08/10)
+## Challenges da semana! (15/10)
 
 **Missing Integer**  
   Complexidade em tempo O(N)  
