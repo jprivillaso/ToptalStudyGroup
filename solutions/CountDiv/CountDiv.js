@@ -2,6 +2,9 @@
 // console.log('this is a debug message');
 
 function solution(A, B, K) {
-    let x = B % K;
-    return (1 + Math.floor(((B-x) - A) / K));
+
+    let totalDivisibles   =  Math.floor(B / K);
+    let excludeDivisibles = Math.floor((A - 1) / K);
+    return totalDivisibles - excludeDivisibles;
+    
 }
