@@ -18,16 +18,16 @@ No dia, discutimos as soluções. Caso alguém não tenha conseguido o 100%, ent
 ## Links
 Entenda um pouco sobre complexidade de Algoritmos [nesse link!](http://bigocheatsheet.com/)
 
-## Challenges da semana! (15/10)
+## Challenges da semana! (22/10)
 
-**Missing Integer**  
+**Passing Cars**  
   Complexidade em tempo O(N)  
-  Complexidade em espaço O(N) 
+  Complexidade em espaço O(1) 
 
-**Frog River One**  
-  Complexidade em tempo O(N)  
-  Complexidade em espaço O(X)  
+**CountDiv**  
+  Complexidade em tempo O(1)  
+  Complexidade em espaço O(1)  
 
-**Max Counters**  
+**Genomic Range Query**  
   Complexidade em tempo O(N+M)  
   Complexidade em espaço O(N)
