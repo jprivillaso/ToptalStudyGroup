@@ -15,6 +15,9 @@ Toda semana serão marcados os problemas que devem ser resolvidos. A lista de pr
 nesse [link](https://codility.com/programmers/lessons/).  
 No dia, discutimos as soluções. Caso alguém não tenha conseguido o 100%, entre todos tentam achar uma solução melhor.
 
+## Sites similares ao Codility
+[HackerRank](https://www.hackerrank.com/)
+
 ## Links
 Entenda um pouco sobre complexidade de Algoritmos [nesse link!](http://bigocheatsheet.com/)
 
