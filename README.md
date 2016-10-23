@@ -17,6 +17,7 @@ No dia, discutimos as soluções. Caso alguém não tenha conseguido o 100%, ent
 
 ## Links
 Entenda um pouco sobre complexidade de Algoritmos [nesse link!](http://bigocheatsheet.com/)
+Algumas dicas para a entrevista de algoritmos [aqui.](https://www.toptal.com/algorithms/interview-questions?utm_campaign=interview_questions_algorithms&utm_medium=email&utm_source=blog_subscribers)
 
 ## Challenges da semana! (22/10)
 
